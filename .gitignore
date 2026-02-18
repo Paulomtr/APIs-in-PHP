@@ -1,0 +1,21 @@
+# Dependências do Composer
+vendor/
+
+# Arquivos de configuração local
+.env
+config/config.php
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+
+# Cache do PHP
+*.cache
+*.session
+
+# Configurações do VSCode
+.vscode/
+
+# Arquivos do sistema Windows
+Thumbs.db
+Desktop.ini
